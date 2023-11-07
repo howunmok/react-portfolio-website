@@ -102,4 +102,13 @@
     width: 100%;
     gap: 9px;
   }
+  .historyItemDetails h3 {
+    font-size: 20px;
+  }
+  .historyItemDetails p {
+    font-size: 15px;
+  }
+  .historyItemDetails ul {
+    font-size: 18px;
+  }
 }

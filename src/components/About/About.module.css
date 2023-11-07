@@ -82,6 +82,9 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .titleIntro {
+    font-size: 20px;
+  }
   .content {
     flex-direction: column;
   }
@@ -94,5 +97,11 @@
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+  }
+  .aboutItemText h3 {
+    font-size: 25px;
+  }
+  .aboutItemText p {
+    font-size: 20px;
   }
 }
