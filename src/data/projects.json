@@ -1,0 +1,42 @@
+[
+  {
+    "title": "CRUD Website",
+    "imageSrc": "projects/crudProject.png",
+    "description": "This is a web application that embraces the power of CRUD operations. username: admin password: admin",
+    "skills": ["Express", "Node", "MongoDB"],
+    "demo": "https://bennymok-crudproject.onrender.com/",
+    "source": "https://github.com/howunmok/COMP229-F2022-Assign1"
+  },
+  {
+    "title": "UI/UX Design",
+    "imageSrc": "projects/uiux.png",
+    "description": "Designed a questionnaire website using Figma with user-centric layout",
+    "skills": ["UI/UX", "Figma"],
+    "demo": "https://www.figma.com/file/BiwrmT9VEFl4b1dtnKfunT/ITDG-Group-Project?type=design&node-id=5-57&mode=design",
+    "source": "https://www.figma.com/file/BiwrmT9VEFl4b1dtnKfunT/ITDG-Group-Project?type=design&node-id=5-57&mode=design"
+  },
+  {
+    "title": "Bug Smasher Game",
+    "imageSrc": "projects/bugSmasherGame.png",
+    "description": "A fun and challenging HTML5 mini-game that tests your reflexes and hand-eye coordination.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://bug-smasher-game.netlify.app/",
+    "source": "https://github.com/howunmok/JavaScript-Bug_Smasher_Game"
+  },
+  {
+    "title": "C# Calculator",
+    "imageSrc": "projects/cSharpCal.png",
+    "description": "Perform basic calculations. Additional scientific functions expanding the mathematical needs.",
+    "skills": ["C#", "WinsForm"],
+    "demo": "https://github.com/howunmok/CSharp-WinsForm-Calculator",
+    "source": "https://github.com/howunmok/CSharp-WinsForm-Calculator"
+  },
+  {
+    "title": "C# Tic-TacTor Game",
+    "imageSrc": "projects/cSharpTicTacToe.png",
+    "description": "The classic game of Tic-tac-toe with a modern twist in this C# WPF application.",
+    "skills": ["C#", "WPF"],
+    "demo": "https://github.com/howunmok/CSharp-WPF-TicTacToeGame",
+    "source": "https://github.com/howunmok/CSharp-WPF-TicTacToeGame"
+  }
+]

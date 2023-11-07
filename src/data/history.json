@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Ballot Officer / Revising Officer",
+    "organization": "City of Toronto",
+    "startDate": "Jun 2023",
+    "endDate": "Jun 2023",
+    "experiences": [
+      "Assisted with the setup",
+      "Issued ballots and assisted voters",
+      "Provided guidance and support"
+    ],
+    "imageSrc": "history/cot.png"
+  },
+  {
+    "role": "Assistant Operations Officer",
+    "organization": "Waihong environmental services limited",
+    "startDate": "Feb, 2013",
+    "endDate": "Mar, 2014",
+    "experiences": [
+      "Assisted in the development of an electronic cleaning inspection",
+      "Replaced traditional paper forms with the electronic system"
+    ],
+    "imageSrc": "history/wh.png"
+  }
+]
