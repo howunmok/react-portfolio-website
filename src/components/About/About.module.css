@@ -25,6 +25,8 @@
   color: var(--color-text);
   font-size: 25px;
   font-weight: 500;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .content {

@@ -5,7 +5,15 @@
     "description": "This is a web application that embraces the power of CRUD operations. username: admin password: admin",
     "skills": ["Express", "Node", "MongoDB"],
     "demo": "https://bennymok-crudproject.onrender.com/",
-    "source": "https://github.com/howunmok/COMP229-F2022-Assign1"
+    "source": "https://github.com/howunmok/CRUD-website"
+  },
+  {
+    "title": "Photography Website",
+    "imageSrc": "projects/photographyWebsite.png",
+    "description": "I'm also a freelance photographer, and this website showcases my professional photography services and portfolio.",
+    "skills": ["HTML", "CSS", "JavaScript", "JQuery"],
+    "demo": "https://bennymok-photography.netlify.app/",
+    "source": "https://github.com/howunmok/photography-website"
   },
   {
     "title": "UI/UX Design",
@@ -38,5 +46,13 @@
     "skills": ["C#", "WPF"],
     "demo": "https://github.com/howunmok/CSharp-WPF-TicTacToeGame",
     "source": "https://github.com/howunmok/CSharp-WPF-TicTacToeGame"
+  },
+  {
+    "title": "Fruit Classifier App",
+    "imageSrc": "projects/tfModelApp.png",
+    "description": "An Java-based Android application that uses a custom-trained TensorFlow Lite neural network to accurately fruit classification.",
+    "skills": ["Java", "Python", "TensorFlow Lite"],
+    "demo": "https://www.youtube.com/watch?v=f0kvWucY_9w",
+    "source": "https://github.com/howunmok/AndroidApp-TensorFlowModel"
   }
 ]
