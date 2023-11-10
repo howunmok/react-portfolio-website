@@ -20,7 +20,11 @@ export const Contact = () => {
               src={getImageUrl("contact/linkedinIcon.png")}
               alt="Linkedin icon"
             />
-            <a href="https://www.linkedin.com/in/benny-mok">
+            <a
+              href="https://www.linkedin.com/in/benny-mok"
+              target="_blank"
+              rel="noreferrer"
+            >
               linkedin.com/in/benny-mok
             </a>
           </li>
@@ -29,7 +33,13 @@ export const Contact = () => {
               src={getImageUrl("contact/githubIcon.png")}
               alt="Github icon"
             />
-            <a href="https://github.com/howunmok">github.com/howunmok</a>
+            <a
+              href="https://github.com/howunmok"
+              target="_blank"
+              rel="noreferrer"
+            >
+              github.com/howunmok
+            </a>
           </li>
           <li>
             <a
