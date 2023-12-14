@@ -1,5 +1,37 @@
 [
   {
+    "title": "NutriNetwork",
+    "imageSrc": "projects/nutriNetwork.png",
+    "description": "A dynamic website that serves as a health platform, where individuals can share their health stories and create health-focused recipes.",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "APIs", "Firebase"],
+    "demo": "https://nutrinetwork-frontend.vercel.app/",
+    "source": "https://github.com/NutriNetwork/"
+  },
+  {
+    "title": "Charity Finder",
+    "imageSrc": "projects/charityFinder.png",
+    "description": "A web application that allows users to search for charities, view detailed information about each charity, and save their favorite charities.",
+    "skills": ["React", "TypeScript", "Tailwind CSS", "Public API"],
+    "demo": "https://react-charityfinder.netlify.app/",
+    "source": "https://github.com/howunmok/react-CharityFinder"
+  },
+  {
+    "title": "Todo App",
+    "imageSrc": "projects/todoApp.png",
+    "description": "A React-based Todo Web App that offers intuitive task management using local storage, featuring task creation, completion tracking",
+    "skills": ["React", "TypeScript", "Local Storage"],
+    "demo": "https://react-todoapp-localstorage.netlify.app/",
+    "source": "https://github.com/howunmok/react-todoApp-localstorage"
+  },
+  {
+    "title": "Markdown Previewer",
+    "imageSrc": "projects/markDown.png",
+    "description": "A tool takes user input in Markdown format, and displays the converted HTML in real time.",
+    "skills": ["React", "TypeScript", "styled-components"],
+    "demo": "https://react-markdownpreviewer-app.netlify.app/",
+    "source": "https://github.com/howunmok/react-markdown-previewer-app"
+  },
+  {
     "title": "CRUD Website",
     "imageSrc": "projects/crudProject.png",
     "description": "This is a web application that embraces the power of CRUD operations. username: admin password: admin",

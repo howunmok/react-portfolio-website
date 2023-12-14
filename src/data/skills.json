@@ -12,20 +12,32 @@
     "imageSrc": "skills/js.png"
   },
   {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
     "title": "Angular",
     "imageSrc": "skills/angular.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwindcss.png"
   },
   {
     "title": "Bootstrap",
     "imageSrc": "skills/bootstrap.png"
   },
   {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
   },
   {
     "title": "Figma",
