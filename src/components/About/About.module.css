@@ -23,7 +23,7 @@
   margin-top: 25px;
   margin-bottom: 25px;
   color: var(--color-text);
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 500;
   text-align: justify;
   text-justify: inter-word;
@@ -70,12 +70,21 @@
 }
 
 .aboutItem h3 {
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 600;
 }
 
+.iconContainer {
+  margin-right: 25px;
+}
+
+.icon {
+  font-size: 60px;
+  color: #5fbcff;
+}
+
 .aboutItem p {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 @media screen and (max-width: 830px) {
@@ -85,7 +94,7 @@
     padding-right: 0;
   }
   .titleIntro {
-    font-size: 20px;
+    font-size: 18px;
   }
   .content {
     flex-direction: column;
@@ -101,9 +110,9 @@
     padding-right: 0;
   }
   .aboutItemText h3 {
-    font-size: 25px;
+    font-size: 20px;
   }
   .aboutItemText p {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
