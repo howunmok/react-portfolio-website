@@ -1,5 +1,17 @@
 [
   {
+    "role": "Data Processor",
+    "organization": "CHAT Insurance Inc",
+    "startDate": "Feb 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Assisted with the brokers",
+      "Entered information into database",
+      "Checked the validity of the customer information"
+    ],
+    "imageSrc": "history/chatin.png"
+  },
+  {
     "role": "Ballot Officer / Revising Officer",
     "organization": "City of Toronto",
     "startDate": "Jun 2023",
